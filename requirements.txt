@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn==0.23.2
+statsmodels
+boruta
+seaborn
+matplotlib
+plotly
+tqdm
+autoviz
+scipy
+pycaret
+tensorflow
